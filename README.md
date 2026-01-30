@@ -1,4 +1,4 @@
-# LSM Log Analyzer (Python Port)
+# LSMParserWeb
 
 > Based on the amazing work by Chuck Tinker.
 
