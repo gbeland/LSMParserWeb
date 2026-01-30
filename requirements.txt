@@ -1,0 +1,5 @@
+openpyxl
+tk
+
+PyQt6
+PyQt6-WebEngine

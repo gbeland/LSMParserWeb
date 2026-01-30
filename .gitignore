@@ -1,0 +1,16 @@
+__pycache__/
+*.xlsx
+*.xls
+*.zip
+*.pdf
+*.html
+*.text
+*.log
+!requirements.txt
+!LICENSE
+!README.md
+!*.py
+!LSMParser_Manual.pdf
+!LSMParser.spec
+dist/
+build/
