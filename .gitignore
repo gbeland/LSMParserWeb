@@ -16,3 +16,6 @@ dist/
 build/
 !LSM Log Files/
 !LSM Log Files/*
+
+*.pem
+docs/pythonAnywareInfo/
